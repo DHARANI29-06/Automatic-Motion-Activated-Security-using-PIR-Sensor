@@ -1,3 +1,4 @@
+
 # Automatic-Motion-Activated-Security-using-PIR-Sensor
 ## AIM:
              To detect motion using a PIR sensor connected to an Arduino and trigger an LED (using the built-in LED) when motion is sensed.
@@ -88,7 +89,7 @@ void loop()
 }
 ```
 # Output:
-https://github.com/user-attachments/assets/8eb52c83-59c0-4145-85e9-5f2aebaf0e89
+https://github.com/user-attachments/assets/2590523f-98dd-4fb0-bc4d-44cb6034d21d
 # Result:
 The PIR sensor successfully detected motion and triggered the Arduino to turn ON the built-in LED. The LED remained OFF when no motion was present, confirming correct circuit and code functionality.
 
